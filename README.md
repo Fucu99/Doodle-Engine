@@ -30,9 +30,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Pre-built engine can be downloaded from [GameBanana](https://gamebanana.com/mods/535203).
-Also, Nightly/Beta builds can be downloaded from [Github Actions](https://github.com/Psych-Slice/P-Slice/actions/workflows/main.yml). (You need to make a Github account.)
-
+Pre-built engine can be downloaded from [GameBanana]([https://gamebanana.com/mods/535203](https://gamebanana.com/tools/24706)).
 
 If you wanna compile this engine, Please check out <a href="#build">here!</a>
 
