@@ -46,14 +46,6 @@ It's meant to bring new visuals and features from newer versions of FNF and make
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Features
-| V-Slice's freeplay menu | Results screen|
-|-|-|
-|![](https://github.com/Psych-Slice/misc/blob/main/showcase/freeplay.png?raw=true) | ![](https://github.com/Psych-Slice/misc/blob/main/showcase/result.png?raw=true)|
-|Character selector|Pausable cutscenes|
-|![](https://github.com/Psych-Slice/misc/blob/main/showcase/character.png?raw=true)|![](https://github.com/Psych-Slice/misc/blob/main/showcase/pause.png?raw=true)|
-|Pico|Player editor|
-|![](https://github.com/Psych-Slice/misc/blob/main/showcase/pico.png?raw=true)|![](https://github.com/Psych-Slice/misc/blob/main/showcase/playerEditor.png?raw=true)|
 <!-- GETTING STARTED -->
 ## Getting Started
 
