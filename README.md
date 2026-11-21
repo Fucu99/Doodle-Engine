@@ -23,15 +23,6 @@
   <p align="center">
     An edit of P-Slice that features a lot of cool things like Colored Notes, New editors such as logic and code editor and a lot of other cool things.
     <br />
-    <a href="https://github.com/Psych-Slice/P-Slice/wiki"><strong>Explore the Wiki »</strong></a>
-    <br />
-    <br />
-    ·
-    <a href="https://github.com/Psych-Slice/P-Slice/issues">Report Bug or Request Feature</a>
-    ·
-    <a href="https://github.com/Psych-Slice/P-Slice/pulls">Create Pull Request</a>
-  </p>
-</div>
 
 #### Made With
 <img src="https://img.shields.io/badge/-HAXE-262626.svg?logo=haxe&style=for-the-badge">
