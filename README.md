@@ -20,15 +20,6 @@
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/Psych-Slice/P-Slice">
-    <img src="art/banner.png" alt="Logo" width="300" height="200">
-  </a>
-
-<h3 align="center">Doodle Engine</h3>
-
   <p align="center">
     An edit of P-Slice that features a lot of cool things like Colored Notes, New editors such as logic and code editor and a lot of other cool things.
     <br />
