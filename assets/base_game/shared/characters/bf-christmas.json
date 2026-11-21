@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BF JOLLY idle"
+		},
+		{
+			"offsets": [-8, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF JOLLY left"
+		},
+		{
+			"offsets": [-30, -52],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BF JOLLY down"
+		},
+		{
+			"offsets": [-40, 20],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF JOLLY up"
+		},
+		{
+			"offsets": [-55, -7],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF JOLLY right"
+		},
+		{
+			"offsets": [-8, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BF JOLLY miss left"
+		},
+		{
+			"offsets": [-30, -52],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BF JOLLY miss down"
+		},
+		{
+			"offsets": [-40, 20],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BF JOLLY miss up"
+		},
+		{
+			"offsets": [-52, 2],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BF JOLLY miss right"
+		},
+		{
+			"offsets": [-9, 3],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "BF JOLLY hey"
+		},
+		{
+			"offsets": [-8, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-censor",
+			"loop": false,
+			"name": "BF JOLLY censor left"
+		},
+		{
+			"offsets": [-30, -52],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-censor",
+			"loop": false,
+			"name": "BF JOLLY censor down"
+		},
+		{
+			"offsets": [-40, 20],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-censor",
+			"loop": false,
+			"name": "BF JOLLY censor up"
+		},
+		{
+			"offsets": [-55, -7],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-censor",
+			"loop": false,
+			"name": "BF JOLLY censor right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/faithBF-jolly",
+	"position": [0, 350],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [49, 176, 209],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

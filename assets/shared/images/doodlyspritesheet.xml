@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="spritesheet.png">
+  <SubTexture name="doodlyidle0000" x="1" y="1" width="167" height="173"/>
+  <SubTexture name="doodlytalkcalm0000" x="169" y="1" width="167" height="173"/>
+  <SubTexture name="doodlytalkcalm0001" x="337" y="1" width="167" height="173"/>
+  <SubTexture name="doodlytalkcalmsecondanimation0000" x="1" y="175" width="167" height="173"/>
+  <SubTexture name="doodlytalkcalmsecondanimation0001" x="169" y="175" width="167" height="173"/>
+</TextureAtlas>

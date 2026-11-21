@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [14, 4],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "BF HOLDING GF first death"
+		},
+		{
+			"offsets": [14, 1],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "BF HOLDING GF dead loop"
+		},
+		{
+			"offsets": [14, 47],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "BF HOLDING GF death confirm"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/faithBF-holdingGf-dead",
+	"position": [0, 350],
+	"healthicon": "bf-holding-gf",
+	"flip_x": true,
+	"healthbar_colors": [49, 176, 209],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

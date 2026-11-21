@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="faithBF-holdingGf.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF HOLDING GF down0000" x="0" y="0" width="465" height="419" frameX="-2" frameY="-3" frameWidth="471" frameHeight="422"/>
+	<SubTexture name="BF HOLDING GF down0001" x="0" y="0" width="465" height="419" frameX="-2" frameY="-3" frameWidth="471" frameHeight="422"/>
+	<SubTexture name="BF HOLDING GF down0002" x="465" y="0" width="471" height="412" frameX="0" frameY="0" frameWidth="471" frameHeight="422"/>
+	<SubTexture name="BF HOLDING GF down0003" x="465" y="0" width="471" height="412" frameX="0" frameY="0" frameWidth="471" frameHeight="422"/>
+	<SubTexture name="BF HOLDING GF down0004" x="936" y="0" width="471" height="412" frameX="0" frameY="0" frameWidth="471" frameHeight="422"/>
+	<SubTexture name="BF HOLDING GF down0005" x="936" y="0" width="471" height="412" frameX="0" frameY="0" frameWidth="471" frameHeight="422"/>
+	<SubTexture name="BF HOLDING GF down0006" x="936" y="0" width="471" height="412" frameX="0" frameY="0" frameWidth="471" frameHeight="422"/>
+	<SubTexture name="BF HOLDING GF down0007" x="936" y="0" width="471" height="412" frameX="0" frameY="0" frameWidth="471" frameHeight="422"/>
+	<SubTexture name="BF HOLDING GF down0008" x="936" y="0" width="471" height="412" frameX="0" frameY="0" frameWidth="471" frameHeight="422"/>
+	<SubTexture name="BF HOLDING GF down0009" x="936" y="0" width="471" height="412" frameX="0" frameY="0" frameWidth="471" frameHeight="422"/>
+	<SubTexture name="BF HOLDING GF down0010" x="936" y="0" width="471" height="412" frameX="0" frameY="0" frameWidth="471" frameHeight="422"/>
+	<SubTexture name="BF HOLDING GF down0011" x="936" y="0" width="471" height="412" frameX="0" frameY="0" frameWidth="471" frameHeight="422"/>
+	<SubTexture name="BF HOLDING GF down0012" x="936" y="0" width="471" height="412" frameX="0" frameY="0" frameWidth="471" frameHeight="422"/>
+	<SubTexture name="BF HOLDING GF down0013" x="936" y="0" width="471" height="412" frameX="0" frameY="0" frameWidth="471" frameHeight="422"/>
+	<SubTexture name="BF HOLDING GF down0014" x="936" y="0" width="471" height="412" frameX="0" frameY="0" frameWidth="471" frameHeight="422"/>
+	<SubTexture name="BF HOLDING GF idle0000" x="1407" y="0" width="526" height="434" frameX="0" frameY="-8" frameWidth="527" frameHeight="442"/>
+	<SubTexture name="BF HOLDING GF idle0001" x="1407" y="0" width="526" height="434" frameX="0" frameY="-8" frameWidth="527" frameHeight="442"/>
+	<SubTexture name="BF HOLDING GF idle0002" x="1933" y="0" width="525" height="436" frameX="-1" frameY="-6" frameWidth="527" frameHeight="442"/>
+	<SubTexture name="BF HOLDING GF idle0003" x="1933" y="0" width="525" height="436" frameX="-1" frameY="-6" frameWidth="527" frameHeight="442"/>
+	<SubTexture name="BF HOLDING GF idle0004" x="2458" y="0" width="520" height="440" frameX="-4" frameY="-2" frameWidth="527" frameHeight="442"/>
+	<SubTexture name="BF HOLDING GF idle0005" x="2458" y="0" width="520" height="440" frameX="-4" frameY="-2" frameWidth="527" frameHeight="442"/>
+	<SubTexture name="BF HOLDING GF idle0006" x="2978" y="0" width="521" height="442" frameX="-6" frameY="0" frameWidth="527" frameHeight="442"/>
+	<SubTexture name="BF HOLDING GF idle0007" x="2978" y="0" width="521" height="442" frameX="-6" frameY="0" frameWidth="527" frameHeight="442"/>
+	<SubTexture name="BF HOLDING GF idle0008" x="3499" y="0" width="521" height="442" frameX="-6" frameY="0" frameWidth="527" frameHeight="442"/>
+	<SubTexture name="BF HOLDING GF idle0009" x="3499" y="0" width="521" height="442" frameX="-6" frameY="0" frameWidth="527" frameHeight="442"/>
+	<SubTexture name="BF HOLDING GF idle0010" x="3499" y="0" width="521" height="442" frameX="-6" frameY="0" frameWidth="527" frameHeight="442"/>
+	<SubTexture name="BF HOLDING GF idle0011" x="3499" y="0" width="521" height="442" frameX="-6" frameY="0" frameWidth="527" frameHeight="442"/>
+	<SubTexture name="BF HOLDING GF idle0012" x="3499" y="0" width="521" height="442" frameX="-6" frameY="0" frameWidth="527" frameHeight="442"/>
+	<SubTexture name="BF HOLDING GF idle0013" x="3499" y="0" width="521" height="442" frameX="-6" frameY="0" frameWidth="527" frameHeight="442"/>
+	<SubTexture name="BF HOLDING GF idle0014" x="3499" y="0" width="521" height="442" frameX="-6" frameY="0" frameWidth="527" frameHeight="442"/>
+	<SubTexture name="BF HOLDING GF left0000" x="0" y="442" width="488" height="446" frameX="0" frameY="0" frameWidth="495" frameHeight="446"/>
+	<SubTexture name="BF HOLDING GF left0001" x="0" y="442" width="488" height="446" frameX="0" frameY="0" frameWidth="495" frameHeight="446"/>
+	<SubTexture name="BF HOLDING GF left0002" x="488" y="442" width="490" height="444" frameX="-5" frameY="-2" frameWidth="495" frameHeight="446"/>
+	<SubTexture name="BF HOLDING GF left0003" x="488" y="442" width="490" height="444" frameX="-5" frameY="-2" frameWidth="495" frameHeight="446"/>
+	<SubTexture name="BF HOLDING GF left0004" x="978" y="442" width="490" height="444" frameX="-5" frameY="-2" frameWidth="495" frameHeight="446"/>
+	<SubTexture name="BF HOLDING GF left0005" x="978" y="442" width="490" height="444" frameX="-5" frameY="-2" frameWidth="495" frameHeight="446"/>
+	<SubTexture name="BF HOLDING GF left0006" x="978" y="442" width="490" height="444" frameX="-5" frameY="-2" frameWidth="495" frameHeight="446"/>
+	<SubTexture name="BF HOLDING GF left0007" x="978" y="442" width="490" height="444" frameX="-5" frameY="-2" frameWidth="495" frameHeight="446"/>
+	<SubTexture name="BF HOLDING GF left0008" x="978" y="442" width="490" height="444" frameX="-5" frameY="-2" frameWidth="495" frameHeight="446"/>
+	<SubTexture name="BF HOLDING GF left0009" x="978" y="442" width="490" height="444" frameX="-5" frameY="-2" frameWidth="495" frameHeight="446"/>
+	<SubTexture name="BF HOLDING GF left0010" x="978" y="442" width="490" height="444" frameX="-5" frameY="-2" frameWidth="495" frameHeight="446"/>
+	<SubTexture name="BF HOLDING GF left0011" x="978" y="442" width="490" height="444" frameX="-5" frameY="-2" frameWidth="495" frameHeight="446"/>
+	<SubTexture name="BF HOLDING GF left0012" x="978" y="442" width="490" height="444" frameX="-5" frameY="-2" frameWidth="495" frameHeight="446"/>
+	<SubTexture name="BF HOLDING GF left0013" x="978" y="442" width="490" height="444" frameX="-5" frameY="-2" frameWidth="495" frameHeight="446"/>
+	<SubTexture name="BF HOLDING GF left0014" x="978" y="442" width="490" height="444" frameX="-5" frameY="-2" frameWidth="495" frameHeight="446"/>
+	<SubTexture name="BF HOLDING GF miss down0000" x="0" y="0" width="465" height="419" frameX="-6" frameY="-29" frameWidth="471" frameHeight="422"/>
+	<SubTexture name="BF HOLDING GF miss down0001" x="1468" y="442" width="471" height="433" frameX="-3" frameY="-4" frameWidth="479" frameHeight="448"/>
+	<SubTexture name="BF HOLDING GF miss down0002" x="1939" y="442" width="471" height="437" frameX="-3" frameY="0" frameWidth="479" frameHeight="448"/>
+	<SubTexture name="BF HOLDING GF miss down0003" x="2410" y="442" width="479" height="428" frameX="0" frameY="-8" frameWidth="479" frameHeight="448"/>
+	<SubTexture name="BF HOLDING GF miss down0004" x="2889" y="442" width="479" height="431" frameX="0" frameY="-5" frameWidth="479" frameHeight="448"/>
+	<SubTexture name="BF HOLDING GF miss down0005" x="2410" y="442" width="479" height="428" frameX="0" frameY="-8" frameWidth="479" frameHeight="448"/>
+	<SubTexture name="BF HOLDING GF miss down0006" x="2889" y="442" width="479" height="431" frameX="0" frameY="-5" frameWidth="479" frameHeight="448"/>
+	<SubTexture name="BF HOLDING GF miss down0007" x="2410" y="442" width="479" height="428" frameX="0" frameY="-8" frameWidth="479" frameHeight="448"/>
+	<SubTexture name="BF HOLDING GF miss down0008" x="2889" y="442" width="479" height="431" frameX="0" frameY="-5" frameWidth="479" frameHeight="448"/>
+	<SubTexture name="BF HOLDING GF miss down0009" x="2410" y="442" width="479" height="428" frameX="0" frameY="-8" frameWidth="479" frameHeight="448"/>
+	<SubTexture name="BF HOLDING GF miss down0010" x="2889" y="442" width="479" height="431" frameX="0" frameY="-5" frameWidth="479" frameHeight="448"/>
+	<SubTexture name="BF HOLDING GF miss down0011" x="2410" y="442" width="479" height="428" frameX="0" frameY="-8" frameWidth="479" frameHeight="448"/>
+	<SubTexture name="BF HOLDING GF miss down0012" x="2889" y="442" width="479" height="431" frameX="0" frameY="-5" frameWidth="479" frameHeight="448"/>
+	<SubTexture name="BF HOLDING GF miss down0013" x="2410" y="442" width="479" height="428" frameX="0" frameY="-8" frameWidth="479" frameHeight="448"/>
+	<SubTexture name="BF HOLDING GF miss down0014" x="2889" y="442" width="479" height="431" frameX="0" frameY="-5" frameWidth="479" frameHeight="448"/>
+	<SubTexture name="BF HOLDING GF miss left0000" x="3368" y="442" width="488" height="446" frameX="0" frameY="-23" frameWidth="512" frameHeight="469"/>
+	<SubTexture name="BF HOLDING GF miss left0001" x="0" y="888" width="503" height="463" frameX="-9" frameY="-5" frameWidth="512" frameHeight="469"/>
+	<SubTexture name="BF HOLDING GF miss left0002" x="503" y="888" width="503" height="466" frameX="-9" frameY="-2" frameWidth="512" frameHeight="469"/>
+	<SubTexture name="BF HOLDING GF miss left0003" x="1006" y="888" width="501" height="465" frameX="-6" frameY="-3" frameWidth="512" frameHeight="469"/>
+	<SubTexture name="BF HOLDING GF miss left0004" x="1507" y="888" width="501" height="468" frameX="-6" frameY="0" frameWidth="512" frameHeight="469"/>
+	<SubTexture name="BF HOLDING GF miss left0005" x="1006" y="888" width="501" height="465" frameX="-6" frameY="-3" frameWidth="512" frameHeight="469"/>
+	<SubTexture name="BF HOLDING GF miss left0006" x="1507" y="888" width="501" height="468" frameX="-6" frameY="0" frameWidth="512" frameHeight="469"/>
+	<SubTexture name="BF HOLDING GF miss left0007" x="1006" y="888" width="501" height="465" frameX="-6" frameY="-3" frameWidth="512" frameHeight="469"/>
+	<SubTexture name="BF HOLDING GF miss left0008" x="1507" y="888" width="501" height="468" frameX="-6" frameY="0" frameWidth="512" frameHeight="469"/>
+	<SubTexture name="BF HOLDING GF miss left0009" x="1006" y="888" width="501" height="465" frameX="-6" frameY="-3" frameWidth="512" frameHeight="469"/>
+	<SubTexture name="BF HOLDING GF miss left0010" x="1507" y="888" width="501" height="468" frameX="-6" frameY="0" frameWidth="512" frameHeight="469"/>
+	<SubTexture name="BF HOLDING GF miss left0011" x="1006" y="888" width="501" height="465" frameX="-6" frameY="-3" frameWidth="512" frameHeight="469"/>
+	<SubTexture name="BF HOLDING GF miss left0012" x="1507" y="888" width="501" height="468" frameX="-6" frameY="0" frameWidth="512" frameHeight="469"/>
+	<SubTexture name="BF HOLDING GF miss left0013" x="1006" y="888" width="501" height="465" frameX="-6" frameY="-3" frameWidth="512" frameHeight="469"/>
+	<SubTexture name="BF HOLDING GF miss left0014" x="1507" y="888" width="501" height="468" frameX="-6" frameY="0" frameWidth="512" frameHeight="469"/>
+	<SubTexture name="BF HOLDING GF miss right0000" x="2008" y="888" width="499" height="451" frameX="-8" frameY="-20" frameWidth="507" frameHeight="471"/>
+	<SubTexture name="BF HOLDING GF miss right0001" x="2507" y="888" width="501" height="466" frameX="0" frameY="-5" frameWidth="507" frameHeight="471"/>
+	<SubTexture name="BF HOLDING GF miss right0002" x="3008" y="888" width="501" height="469" frameX="0" frameY="-2" frameWidth="507" frameHeight="471"/>
+	<SubTexture name="BF HOLDING GF miss right0003" x="3509" y="888" width="501" height="467" frameX="-3" frameY="-4" frameWidth="507" frameHeight="471"/>
+	<SubTexture name="BF HOLDING GF miss right0004" x="0" y="1357" width="501" height="471" frameX="-3" frameY="0" frameWidth="507" frameHeight="471"/>
+	<SubTexture name="BF HOLDING GF miss right0005" x="3509" y="888" width="501" height="467" frameX="-3" frameY="-4" frameWidth="507" frameHeight="471"/>
+	<SubTexture name="BF HOLDING GF miss right0006" x="0" y="1357" width="501" height="471" frameX="-3" frameY="0" frameWidth="507" frameHeight="471"/>
+	<SubTexture name="BF HOLDING GF miss right0007" x="3509" y="888" width="501" height="467" frameX="-3" frameY="-4" frameWidth="507" frameHeight="471"/>
+	<SubTexture name="BF HOLDING GF miss right0008" x="0" y="1357" width="501" height="471" frameX="-3" frameY="0" frameWidth="507" frameHeight="471"/>
+	<SubTexture name="BF HOLDING GF miss right0009" x="3509" y="888" width="501" height="467" frameX="-3" frameY="-4" frameWidth="507" frameHeight="471"/>
+	<SubTexture name="BF HOLDING GF miss right0010" x="0" y="1357" width="501" height="471" frameX="-3" frameY="0" frameWidth="507" frameHeight="471"/>
+	<SubTexture name="BF HOLDING GF miss right0011" x="3509" y="888" width="501" height="467" frameX="-3" frameY="-4" frameWidth="507" frameHeight="471"/>
+	<SubTexture name="BF HOLDING GF miss right0012" x="0" y="1357" width="501" height="471" frameX="-3" frameY="0" frameWidth="507" frameHeight="471"/>
+	<SubTexture name="BF HOLDING GF miss right0013" x="3509" y="888" width="501" height="467" frameX="-3" frameY="-4" frameWidth="507" frameHeight="471"/>
+	<SubTexture name="BF HOLDING GF miss right0014" x="0" y="1357" width="501" height="471" frameX="-3" frameY="0" frameWidth="507" frameHeight="471"/>
+	<SubTexture name="BF HOLDING GF miss up0000" x="501" y="1357" width="460" height="467" frameX="-3" frameY="-1" frameWidth="478" frameHeight="472"/>
+	<SubTexture name="BF HOLDING GF miss up0001" x="961" y="1357" width="478" height="468" frameX="0" frameY="-4" frameWidth="478" frameHeight="472"/>
+	<SubTexture name="BF HOLDING GF miss up0002" x="1439" y="1357" width="478" height="468" frameX="0" frameY="-4" frameWidth="478" frameHeight="472"/>
+	<SubTexture name="BF HOLDING GF miss up0003" x="1917" y="1357" width="469" height="472" frameX="-3" frameY="0" frameWidth="478" frameHeight="472"/>
+	<SubTexture name="BF HOLDING GF miss up0004" x="2386" y="1357" width="469" height="472" frameX="-3" frameY="0" frameWidth="478" frameHeight="472"/>
+	<SubTexture name="BF HOLDING GF miss up0005" x="1917" y="1357" width="469" height="472" frameX="-3" frameY="0" frameWidth="478" frameHeight="472"/>
+	<SubTexture name="BF HOLDING GF miss up0006" x="2386" y="1357" width="469" height="472" frameX="-3" frameY="0" frameWidth="478" frameHeight="472"/>
+	<SubTexture name="BF HOLDING GF miss up0007" x="1917" y="1357" width="469" height="472" frameX="-3" frameY="0" frameWidth="478" frameHeight="472"/>
+	<SubTexture name="BF HOLDING GF miss up0008" x="2386" y="1357" width="469" height="472" frameX="-3" frameY="0" frameWidth="478" frameHeight="472"/>
+	<SubTexture name="BF HOLDING GF miss up0009" x="1917" y="1357" width="469" height="472" frameX="-3" frameY="0" frameWidth="478" frameHeight="472"/>
+	<SubTexture name="BF HOLDING GF miss up0010" x="2386" y="1357" width="469" height="472" frameX="-3" frameY="0" frameWidth="478" frameHeight="472"/>
+	<SubTexture name="BF HOLDING GF miss up0011" x="1917" y="1357" width="469" height="472" frameX="-3" frameY="0" frameWidth="478" frameHeight="472"/>
+	<SubTexture name="BF HOLDING GF miss up0012" x="2386" y="1357" width="469" height="472" frameX="-3" frameY="0" frameWidth="478" frameHeight="472"/>
+	<SubTexture name="BF HOLDING GF miss up0013" x="1917" y="1357" width="469" height="472" frameX="-3" frameY="0" frameWidth="478" frameHeight="472"/>
+	<SubTexture name="BF HOLDING GF miss up0014" x="2386" y="1357" width="469" height="472" frameX="-3" frameY="0" frameWidth="478" frameHeight="472"/>
+	<SubTexture name="BF HOLDING GF right0000" x="2855" y="1357" width="499" height="451" frameX="-3" frameY="0" frameWidth="502" frameHeight="451"/>
+	<SubTexture name="BF HOLDING GF right0001" x="2855" y="1357" width="499" height="451" frameX="-3" frameY="0" frameWidth="502" frameHeight="451"/>
+	<SubTexture name="BF HOLDING GF right0002" x="3354" y="1357" width="490" height="451" frameX="0" frameY="0" frameWidth="502" frameHeight="451"/>
+	<SubTexture name="BF HOLDING GF right0003" x="3354" y="1357" width="490" height="451" frameX="0" frameY="0" frameWidth="502" frameHeight="451"/>
+	<SubTexture name="BF HOLDING GF right0004" x="0" y="1829" width="490" height="451" frameX="0" frameY="0" frameWidth="502" frameHeight="451"/>
+	<SubTexture name="BF HOLDING GF right0005" x="0" y="1829" width="490" height="451" frameX="0" frameY="0" frameWidth="502" frameHeight="451"/>
+	<SubTexture name="BF HOLDING GF right0006" x="0" y="1829" width="490" height="451" frameX="0" frameY="0" frameWidth="502" frameHeight="451"/>
+	<SubTexture name="BF HOLDING GF right0007" x="0" y="1829" width="490" height="451" frameX="0" frameY="0" frameWidth="502" frameHeight="451"/>
+	<SubTexture name="BF HOLDING GF right0008" x="0" y="1829" width="490" height="451" frameX="0" frameY="0" frameWidth="502" frameHeight="451"/>
+	<SubTexture name="BF HOLDING GF right0009" x="0" y="1829" width="490" height="451" frameX="0" frameY="0" frameWidth="502" frameHeight="451"/>
+	<SubTexture name="BF HOLDING GF right0010" x="0" y="1829" width="490" height="451" frameX="0" frameY="0" frameWidth="502" frameHeight="451"/>
+	<SubTexture name="BF HOLDING GF right0011" x="0" y="1829" width="490" height="451" frameX="0" frameY="0" frameWidth="502" frameHeight="451"/>
+	<SubTexture name="BF HOLDING GF right0012" x="0" y="1829" width="490" height="451" frameX="0" frameY="0" frameWidth="502" frameHeight="451"/>
+	<SubTexture name="BF HOLDING GF right0013" x="0" y="1829" width="490" height="451" frameX="0" frameY="0" frameWidth="502" frameHeight="451"/>
+	<SubTexture name="BF HOLDING GF right0014" x="0" y="1829" width="490" height="451" frameX="0" frameY="0" frameWidth="502" frameHeight="451"/>
+	<SubTexture name="BF HOLDING GF up0000" x="501" y="1357" width="460" height="467" frameX="-4" frameY="0" frameWidth="478" frameHeight="472"/>
+	<SubTexture name="BF HOLDING GF up0001" x="501" y="1357" width="460" height="467" frameX="-4" frameY="0" frameWidth="478" frameHeight="472"/>
+	<SubTexture name="BF HOLDING GF up0002" x="490" y="1829" width="465" height="462" frameX="0" frameY="-5" frameWidth="465" frameHeight="467"/>
+	<SubTexture name="BF HOLDING GF up0003" x="490" y="1829" width="465" height="462" frameX="0" frameY="-5" frameWidth="465" frameHeight="467"/>
+	<SubTexture name="BF HOLDING GF up0004" x="955" y="1829" width="464" height="462" frameX="0" frameY="-5" frameWidth="465" frameHeight="467"/>
+	<SubTexture name="BF HOLDING GF up0005" x="955" y="1829" width="464" height="462" frameX="0" frameY="-5" frameWidth="465" frameHeight="467"/>
+	<SubTexture name="BF HOLDING GF up0006" x="955" y="1829" width="464" height="462" frameX="0" frameY="-5" frameWidth="465" frameHeight="467"/>
+	<SubTexture name="BF HOLDING GF up0007" x="955" y="1829" width="464" height="462" frameX="0" frameY="-5" frameWidth="465" frameHeight="467"/>
+	<SubTexture name="BF HOLDING GF up0008" x="955" y="1829" width="464" height="462" frameX="0" frameY="-5" frameWidth="465" frameHeight="467"/>
+	<SubTexture name="BF HOLDING GF up0009" x="955" y="1829" width="464" height="462" frameX="0" frameY="-5" frameWidth="465" frameHeight="467"/>
+	<SubTexture name="BF HOLDING GF up0010" x="955" y="1829" width="464" height="462" frameX="0" frameY="-5" frameWidth="465" frameHeight="467"/>
+	<SubTexture name="BF HOLDING GF up0011" x="955" y="1829" width="464" height="462" frameX="0" frameY="-5" frameWidth="465" frameHeight="467"/>
+	<SubTexture name="BF HOLDING GF up0012" x="955" y="1829" width="464" height="462" frameX="0" frameY="-5" frameWidth="465" frameHeight="467"/>
+	<SubTexture name="BF HOLDING GF up0013" x="955" y="1829" width="464" height="462" frameX="0" frameY="-5" frameWidth="465" frameHeight="467"/>
+	<SubTexture name="BF HOLDING GF up0014" x="955" y="1829" width="464" height="462" frameX="0" frameY="-5" frameWidth="465" frameHeight="467"/>
+	<SubTexture name="BF catching GF0000" x="1419" y="1829" width="523" height="486" frameX="-39" frameY="-81" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0001" x="1942" y="1829" width="523" height="486" frameX="-39" frameY="-81" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0002" x="2465" y="1829" width="518" height="452" frameX="-26" frameY="-83" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0003" x="2983" y="1829" width="525" height="448" frameX="-26" frameY="-87" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0004" x="3508" y="1829" width="523" height="453" frameX="-28" frameY="-85" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0005" x="0" y="2315" width="521" height="453" frameX="-28" frameY="-85" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0006" x="521" y="2315" width="521" height="453" frameX="-28" frameY="-85" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0007" x="1042" y="2315" width="522" height="453" frameX="-28" frameY="-85" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0008" x="1042" y="2315" width="522" height="453" frameX="-28" frameY="-85" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0009" x="1042" y="2315" width="522" height="453" frameX="-28" frameY="-85" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0010" x="1042" y="2315" width="522" height="453" frameX="-28" frameY="-85" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0011" x="1042" y="2315" width="522" height="453" frameX="-28" frameY="-85" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0012" x="1564" y="2315" width="481" height="485" frameX="0" frameY="-36" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0013" x="2045" y="2315" width="481" height="495" frameX="0" frameY="-26" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0014" x="2526" y="2315" width="483" height="495" frameX="0" frameY="-26" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0015" x="3009" y="2315" width="483" height="517" frameX="0" frameY="-4" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0016" x="3492" y="2315" width="483" height="517" frameX="0" frameY="-4" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0017" x="0" y="2832" width="483" height="519" frameX="0" frameY="-2" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0018" x="0" y="2832" width="483" height="519" frameX="0" frameY="-2" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0019" x="483" y="2832" width="483" height="521" frameX="0" frameY="0" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0020" x="483" y="2832" width="483" height="521" frameX="0" frameY="0" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0021" x="966" y="2832" width="483" height="521" frameX="0" frameY="0" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0022" x="966" y="2832" width="483" height="521" frameX="0" frameY="0" frameWidth="562" frameHeight="567"/>
+	<SubTexture name="BF catching GF0023" x="1449" y="2832" width="483" height="521" frameX="0" frameY="0" frameWidth="562" frameHeight="567"/>
+</TextureAtlas>
